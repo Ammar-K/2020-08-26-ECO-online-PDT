@@ -20,22 +20,6 @@ collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g.
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
-{% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
-
-{% comment %}
-HEADER
-
-Edit the values in the block above to be appropriate for your workshop.
-If the value is not 'true', 'false', 'null', or a number, please use
-double quotation marks around the value, unless specified otherwise.
-And run 'make workshop-check' *before* committing to make sure that changes are good.
-{% endcomment %}
-
-
-{% comment %}
-8< ============= For a workshop delete from here =============
-For a workshop please delete the following block until the next dashed-line
-{% endcomment %}
 
 
 <div class="alert alert-danger">
